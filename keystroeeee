@@ -1,0 +1,1 @@
+keytool -export -keystore ./ecikeystore.p12 -storetype pkcs12 -alias ecikeypair -file ecicert.cer
